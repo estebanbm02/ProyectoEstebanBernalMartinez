@@ -14,3 +14,8 @@ public class EstebanBernalMartinezFutbol {
 	public String getLiga() {
 		return liga;
 	}
+
+	public void setLiga(String liga) {
+		this.liga = liga;
+	}
+}
