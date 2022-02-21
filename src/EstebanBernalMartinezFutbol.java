@@ -25,4 +25,7 @@ public class EstebanBernalMartinezFutbol {
 	public void setEquipo(String equipo) {
 		this.equipo = equipo;
 	}
+	public String getFutbol() {
+		return futbol;
+	}
 }
