@@ -14,7 +14,6 @@ public class EstebanBernalMartinezFutbol {
 	public String getLiga() {
 		return liga;
 	}
-
 	public void setLiga(String liga) {
 		this.liga = liga;
 	}
@@ -30,5 +29,10 @@ public class EstebanBernalMartinezFutbol {
 	}
 	public void setFutbol(String futbol) {
 		this.futbol = futbol;
+	}
+	public static void liga(String Liga) {
+		for (int i=0;i<1000;i++) {
+			System.out.println("española");
+	}
 	}
 }
